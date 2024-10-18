@@ -1,4 +1,4 @@
-# Type-to-Python3
+# TypeScript-to-Python3
 
 ![TypeScript to Python3](./DALL·E-2024-10-18-17.22.png)
 
